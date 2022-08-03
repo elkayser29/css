@@ -1,0 +1,21 @@
+.text{
+    background-color: rgb(173, 238, 173);
+    height: 50px;
+    width: 50%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+   font-size: 20px;
+   margin: auto;
+   padding: 0 10px 10px 10px;
+}
+#text1{
+    text-align: left;
+}
+#text2{
+    text-align: center;
+}
+#text3{
+    text-align: right;
+}
+
