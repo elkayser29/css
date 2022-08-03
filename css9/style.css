@@ -1,0 +1,13 @@
+div{
+    background-color: pink;
+    width: 30%;
+    height: 250px;
+    text-align: left;
+    padding: 40px 50px 40px 50px;
+    border-color: red;
+    border-top-style:dotted;
+    border-bottom-style: solid;
+    border-right-style: dashed;
+    border-left-style: double;
+    border-width: 6px;
+}
