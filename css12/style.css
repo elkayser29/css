@@ -1,0 +1,13 @@
+div{
+    margin: 10px;
+}
+#text1{
+    background-color: rgb(150, 208, 150);
+    height: 100px;
+    overflow: hidden;
+}
+#text2{
+    background-color: rgb(150, 208, 150);
+    height: 100px;
+    overflow-y: scroll;
+}
