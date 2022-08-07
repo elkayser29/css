@@ -1,0 +1,26 @@
+#rojo{
+    width: 200px;
+    height: 200px;
+    border-radius:1000px ;
+    background-color: rgba(255, 0, 0, 0.37);
+}
+#azul{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius:1000px ;
+    background-color: rgba(0, 140, 255, 0.37);
+    top: 100px;
+    left: 80px;
+}
+#verde{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius:1000px ;
+    background-color: rgba(0, 255, 0, 0.37);
+    bottom: 100px;
+    left: 50px;
+}
+
+

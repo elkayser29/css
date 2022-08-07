@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: red;
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
+nav{
+    background-color: blue;
+    height: 50px;
+    width: 100%;
+    clear: both;
+}
+
+section{
+    background-color: pink;
+    height: 500px;
+    width: 60%;
+    float: left;
+}
+
+aside{
+    background-color: purple;
+    height: 500px;
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+}
+
+footer{
+    background-color: greenyellow;
+    height: 50px;
+    width: 100%;
+    clear: both;
+}
+
